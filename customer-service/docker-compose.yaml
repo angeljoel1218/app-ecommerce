@@ -1,0 +1,13 @@
+version: '2'
+services:
+  main:
+    labels:
+      svc: "customer"
+    restart: always
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    ports:
+      - "7002"
+    env_file:
+      - ./.env

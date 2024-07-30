@@ -1,0 +1,4 @@
+com/apexglobal/worker/dao/ProductDaoTest.class
+com/apexglobal/worker/dao/ClientDaoTest.class
+com/apexglobal/worker/business/impl/OrderServiceImplTest.class
+com/apexglobal/worker/infrastructure/kafka/OrderConsumerTest.class

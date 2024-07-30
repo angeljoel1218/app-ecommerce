@@ -1,0 +1,4 @@
+/home/angeljoel/Documentos/developer/app-ecommerce/worker/src/test/java/com/apexglobal/worker/business/impl/OrderServiceImplTest.java
+/home/angeljoel/Documentos/developer/app-ecommerce/worker/src/test/java/com/apexglobal/worker/dao/ClientDaoTest.java
+/home/angeljoel/Documentos/developer/app-ecommerce/worker/src/test/java/com/apexglobal/worker/dao/ProductDaoTest.java
+/home/angeljoel/Documentos/developer/app-ecommerce/worker/src/test/java/com/apexglobal/worker/infrastructure/kafka/OrderConsumerTest.java
