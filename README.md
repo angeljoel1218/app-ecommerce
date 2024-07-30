@@ -11,7 +11,7 @@ docker-compose up --build -d
 ```
 ### 2. Registrar cliente
 1. Ingresar a http://localhost:7002/graphql
-2. Ingrese ejecutar query
+2. Ingrese ejecutar operacion
 
 Operation
 ```
@@ -38,7 +38,7 @@ Variables
   }
 
 ```
-### 3 Registrar productos
+### 3. Registrar productos
 ```
 curl --location 'http://0.0.0.0:7001/product' \
 --header 'Content-Type: application/json' \
@@ -65,7 +65,7 @@ curl --location 'http://0.0.0.0:7001/product' \
 "deleted_at": null
 }'
 ```
-### Ingresar a la consola de kafka http://localhost:9021
+### 4. Ingresar a la consola de kafka http://localhost:9021
 - crear el siguiente topico
 ```
 order-topic
